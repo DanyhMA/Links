@@ -1,5 +1,5 @@
 # Links
-Agregador de links que pode ser utilizado com cartão de visitas.
+Agregador de links que pode ser utilizado como cartão de visitas.
 
 ## Tecnologias utilizadas
 
